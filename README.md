@@ -12,7 +12,7 @@ Adicionalmente, incorporará un sistema de lanzamiento de agua de baja presión,
 
 ## Objetivo general
 
-Diseñar e implementar un robot tipo sumo basado en STM32, capaz de desplazarse mediante control inalámbrico, regular la velocidad de sus motores utilizando PWM, detectar los límites de una pista y activar un sistema complementario de lanzamiento de agua.
+Diseñar e implementar un robot tipo sumo basado en STM32, capaz de desplazarse mediante control inalámbrico, regular sus motores utilizando, detectar los límites de una pista y activar un sistema complementario de lanzamiento de agua.
 
 ## Funciones principales
 
